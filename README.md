@@ -7,4 +7,4 @@ A Mac Polytonic Greek keyboard for [WASD 104/87-Key US ANSI Layout](http://www.w
 ## Files:
 
 * `wasd-inkscape-104-11.13.2017-polytonic-greek.svg` - Inkscape SVG file for Polytonic Greek *before* paths-only conversion. You should still be able to edit the text in this file.
-* `wasd-inkscape-104-11.13.2017-polytonic-greek-paths-only.svg` - Inkscape SVG file for Polytonic Greek *after* paths-only conversion. This is the final layout I submitted. Note I also made some other small tweaks after the paths-only conversion.
+* `wasd-inkscape-104-11.13.2017-polytonic-greek-paths-only.svg` - Inkscape SVG file for Polytonic Greek *after* paths-only conversion. This is the final layout I submitted. Note I also made some other small tweaks after the paths-only conversion (small shifts to positioning, and added media icons on the media button cluster above the arrow keys, and an eject icon on f13).
